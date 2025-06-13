@@ -1,0 +1,16 @@
+{
+  "name": "webhw7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cloud": "npx cypress run --record --key 7ed75f16-7394-4773-ba01-7a158148218a"
+  },
+  "keywords": [],
+  "author": "Anastasia Zef",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^14.4.1"
+  }
+}
